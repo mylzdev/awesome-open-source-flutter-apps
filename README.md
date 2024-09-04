@@ -147,6 +147,7 @@ All the projects added in this project are featured in [fluttergems.dev](flutter
 | Table Habit | [Link](https://github.com/friesi23/mhabit) | Our app helps you form and track micro habits with easy-to-use charts and tools, making it simple to establish healthy habits that stick. Start your personal growth journey today |
 | voiceliner | [Link](https://github.com/maxkrieger/voiceliner) | Braindump better. |
 | Your Journal | [Link](https://github.com/VinayakHinduja/Your-Journal) | App to write daily journals digitally. |
+| Moodlet | [Link](https://github.com/mylzdev/moodlet) | Moodlet empowers you to understand and manage your emotional well-being with ease. |
 
 ### Business
 
